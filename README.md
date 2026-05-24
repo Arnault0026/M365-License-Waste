@@ -33,7 +33,6 @@ ESTIMATED TOTAL WASTE: 19,392 $ / year
 
 The HTML report shows the same data with the total estimated annual waste front and center.
 
-*(Add a screenshot of the HTML report here — it's the most convincing part.)*
 
 ---
 
